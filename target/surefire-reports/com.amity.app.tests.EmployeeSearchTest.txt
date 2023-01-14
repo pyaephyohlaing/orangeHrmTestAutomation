@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.amity.app.tests.EmployeeSearchTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.545 s - in com.amity.app.tests.EmployeeSearchTest
